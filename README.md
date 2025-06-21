@@ -45,5 +45,4 @@ Atuação na melhoria da performance e observabilidade de aplicações Java com 
 
 ## 📫 Contato
 
-- [LinkedIn](https:/www.linkedin.com/in/felipeecardoso/)  
 - Email: felipe.car.silvaa@gmail.com  

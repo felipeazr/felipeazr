@@ -20,19 +20,6 @@ Sou estudante de Sistemas de Informação com experiência em desenvolvimento de
 
 ---
 
-## 📌 Projetos em destaque
-
-- **Sistema de Gestão de Escalas:**  
-Desenvolvimento de funcionalidades para cadastro, edição, deleção lógica e visual de escalas de trabalho, com cálculo de carga horária e exibição dinâmica via PrimeFaces.
-
-- **Automação de Relatórios de Dados:**  
-Geração de dashboards e relatórios utilizando Python e ferramentas de BI como Looker Studio e Metabase.
-
-- **Aprimoramento de Performance com HikariCP:**  
-Atuação na melhoria da performance e observabilidade de aplicações Java com integração ao Hibernate.
-
----
-
 ## 🚀 Em aprendizado
 
 - Spring Boot e construção de APIs

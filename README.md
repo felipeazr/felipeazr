@@ -2,7 +2,11 @@
 
 Estagiário em Desenvolvimento de Software | Sistemas de Informação - São Judas (2023 - 2027)
 
----
+## 📊 GitHub Stats
+
+![Felipe's GitHub Stats](https://github-readme-stats.vercel.app/api?username=felipeazr&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felipeazr&layout=compact&theme=tokyonight)
 
 ## 👨‍💻 Sobre mim
 

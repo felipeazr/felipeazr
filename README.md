@@ -24,16 +24,6 @@ Sou estudante de Sistemas de Informação com experiência em desenvolvimento de
 
 ---
 
-## 🚀 Em aprendizado
-
-- Spring Boot e construção de APIs
-- Design Patterns em Java
-- Integração contínua com GitHub Actions
-- Melhores práticas de DevOps
-- Análise de Dados Avançada com Python e SQL
-
----
-
 ## 📫 Contato
 
 - Email: felipe.car.silvaa@gmail.com  

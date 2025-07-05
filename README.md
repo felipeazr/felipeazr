@@ -17,7 +17,7 @@ Estagiário em Desenvolvimento de Software | Sistemas de Informação - São Jud
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
 </p>
 
-#Sobre mim
+# Sobre mim
 
 Sou estudante de Sistemas de Informação com experiência em desenvolvimento de aplicações web e análise de dados. Atuo como estagiário de desenvolvimento, com foco em soluções utilizando **Java**, **Hibernate**, **MVC**, **PrimeFaces** e **SQL**. Tenho interesse contínuo em ampliar minhas habilidades em **back-end**, **DevOps** e **Data Analytics**.
 
